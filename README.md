@@ -31,8 +31,6 @@ It helps a bank:
 - **Assess risk** by separating **Good loans** (Fully Paid/Current) and **Bad loans** (Charged Off)
 - **Analyze trends** by month, region (state), loan term, employment length, purpose, and home ownership
 
-> A lightweight **project page** in `/docs` allows you to share a **live, embedded workbook** via OneDrive/SharePoint (Excel for Web).
-
 ---
 
 ## Business Questions
